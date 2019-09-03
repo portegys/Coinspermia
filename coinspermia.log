@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-03T17:53:53</date>
+  <millis>1567551233224</millis>
+  <sequence>0</sequence>
+  <logger>com.dialectek.coinspermia.node.Node</logger>
+  <level>INFO</level>
+  <class>com.dialectek.coinspermia.node.Node</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Password authorization disabled</message>
+</record>
+<record>
+  <date>2019-09-03T17:53:53</date>
+  <millis>1567551233431</millis>
+  <sequence>1</sequence>
+  <logger>com.dialectek.coinspermia.node.Ledger</logger>
+  <level>INFO</level>
+  <class>com.dialectek.coinspermia.node.Ledger</class>
+  <method>load</method>
+  <thread>1</thread>
+  <message>Ledger ledger.json does not exist</message>
+</record>
+<record>
+  <date>2019-09-03T17:53:53</date>
+  <millis>1567551233447</millis>
+  <sequence>2</sequence>
+  <logger>org.glassfish.tyrus.server.ServerContainerFactory</logger>
+  <level>INFO</level>
+  <class>org.glassfish.tyrus.server.ServerContainerFactory</class>
+  <method>create</method>
+  <thread>1</thread>
+  <message>Provider class loaded: org.glassfish.tyrus.container.grizzly.GrizzlyEngine</message>
+</record>
+<record>
+  <date>2019-09-03T17:53:53</date>
+  <millis>1567551233844</millis>
+  <sequence>3</sequence>
+  <logger>org.glassfish.grizzly.http.server.NetworkListener</logger>
+  <level>INFO</level>
+  <class>org.glassfish.grizzly.http.server.NetworkListener</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>Started listener bound to [0.0.0.0:8944]</message>
+</record>
+<record>
+  <date>2019-09-03T17:53:53</date>
+  <millis>1567551233848</millis>
+  <sequence>4</sequence>
+  <logger>org.glassfish.grizzly.http.server.HttpServer</logger>
+  <level>INFO</level>
+  <class>org.glassfish.grizzly.http.server.HttpServer</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>[HttpServer] Started.</message>
+</record>
+<record>
+  <date>2019-09-03T17:53:53</date>
+  <millis>1567551233877</millis>
+  <sequence>5</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>org.glassfish.tyrus.server.Server</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>WebSocket Registered apps: URLs all start with ws://localhost:8944</message>
+</record>
+<record>
+  <date>2019-09-03T17:53:53</date>
+  <millis>1567551233878</millis>
+  <sequence>6</sequence>
+  <logger>java.lang.Class</logger>
+  <level>INFO</level>
+  <class>org.glassfish.tyrus.server.Server</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>WebSocket server started.</message>
+</record>
+<record>
+  <date>2019-09-03T17:54:33</date>
+  <millis>1567551273920</millis>
+  <sequence>7</sequence>
+  <logger>com.dialectek.coinspermia.node.Node</logger>
+  <level>WARNING</level>
+  <class>com.dialectek.coinspermia.node.Node</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Cannot connect to peer 192.168.4.99:8945: Handshake response not received.</message>
+</record>
+</log>

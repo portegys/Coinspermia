@@ -1,0 +1,2 @@
+# Build Coinspermia.
+mvn package
