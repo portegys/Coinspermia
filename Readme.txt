@@ -1,10 +1,10 @@
 Coinspermia.
 
-Copyright (c) 2017 Tom Portegys (tom.portegys@ey.com). All rights reserved.
+Copyright (c) 2017 Tom Portegys (portegys@gmail.com). All rights reserved.
  
 Redistribution and use in source and binary forms, with or without modification, are
 permitted provided that the following conditions are met:
- 
+
 1. Redistributions of source code must retain the above copyright notice, this list of
    conditions and the following disclaimer.
 

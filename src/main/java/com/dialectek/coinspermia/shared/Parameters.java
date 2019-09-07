@@ -16,7 +16,7 @@ public interface Parameters
    /**
     * Website.
     */
-   public static final String WEBSITE = "coinspermia.ey.com";
+   public static final String WEBSITE = "coinspermia.dialectek.com";
 
    /**
     * Default port.
